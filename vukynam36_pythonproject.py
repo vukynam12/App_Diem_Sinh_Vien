@@ -204,7 +204,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; font-size: 12px; color: gray;'>
-        Ứng dụng được tạo bởi: <b>Vũ Kỳ Nam</b> — MSSV: <b>XXXXXXX</b>
+        Ứng dụng được tạo bởi: <b>Vũ Kỳ Nam</b> — MSSV: <b>031208000036</b>
     </div>
     """,
     unsafe_allow_html=True
